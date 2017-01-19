@@ -1,5 +1,7 @@
 #!/bin/bash
 
+add one line here
+
 # If not jenkins, set workspace to local Tmp
 if [ -v $WORKSPACE ]; then
    if [ -v $TMPDIR ]; then
